@@ -1,0 +1,21 @@
+##Bot educativo de discord
+
+programa simples feito em python e discord
+
+##funcão
+
+-explica detalhadamente o aquecimento global
+-explica causas
+-explica como ajudar a conter/ajudar o ambiente
+
+##como executar
+
+simples como respirar, apenas de um !ajuda_clima que ira exibir todas as suas funções como
+-!clima #explica o clima
+-!gravidade #explica quão grave é
+-!causas #explica a causa de tudo
+-!soluções #explica a solução
+
+
+
+NÃO MODIFICAR BOT NEM ALTERAR SUAS PROPIEDADES 
